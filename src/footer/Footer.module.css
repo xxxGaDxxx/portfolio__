@@ -1,0 +1,31 @@
+.footerBlock {
+    background-color: aqua;
+}
+
+.footerContainer {
+    flex-direction: column;
+    justify-content: flex-start;
+
+}
+
+.title {
+    background-color: #2db72d;
+    margin: 20px 0px;
+}
+
+.textContainer {
+    border: 1px solid blue;
+    background-color: blue;
+    height: 60px;
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.text {
+    width: 60px;
+    height: 60px;
+    background-color: #2db72d;
+
+}

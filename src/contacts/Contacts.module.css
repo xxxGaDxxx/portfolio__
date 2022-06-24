@@ -1,0 +1,27 @@
+.contactsBlock{
+    height: 100vh;
+    background-color: #a183d0;
+
+}
+.contacts{
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+.title{
+    background-color: #696868;
+}
+.contactsForm{
+    width: 280px;
+    border: 1px solid aquamarine;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+.urlContacts{
+    border: 1px solid #696868;
+    background-color: #696868;
+    padding: 5px 10px;
+    text-decoration: none;
+}
